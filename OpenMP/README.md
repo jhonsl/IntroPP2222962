@@ -37,11 +37,6 @@ En el procesado real se uso un array de 100 enteros, el resultado de este proces
 
 ![image](https://github.com/jhonsl/IntroPP2222962/assets/69093836/f6ac2189-790a-4ae9-887d-7277a39a3d2e)
 
-
-### Comando de Ejecución
-
-Para replicar esta prueba en su máquina local, compile el programa con soporte para OpenMP y mida su tiempo de ejecución:
-
 ### Conclusiones:
 
 La ejecución de la versión paralelizada del programa en comparación con su contraparte secuencial muestra una disminución en el tiempo de ejecución. Este comportamiento se espera debido a que la ordenación paralela con OpenMP puede utilizar múltiples hilos para realizar el trabajo que de otro modo sería secuencial. Sin embargo, la magnitud de la mejora en el tiempo depende del tamaño del conjunto de datos y del número de núcleos de procesamiento utilizados.
