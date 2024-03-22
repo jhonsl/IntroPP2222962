@@ -28,12 +28,15 @@ La salida proporcionada corresponde al resultado de una ejecución de prueba loc
 
 ### Resultados de la Prueba
 
-![alt text](image.png)
-![alt text](image-1.png)
-Las pruebas se llevaron a cabo en una lista de 20 enteros. Los resultados son los siguientes:
+Las pruebas locales con gcc se llevaron a cabo en una lista de 20 enteros. Los resultados son los siguientes:
 
 -   Se encontró con éxito la clave en la lista (lo que indica que los algoritmos funcionan según lo esperado).
 -   Se muestra el tiempo total tomado para la ejecución (incluyendo tanto el ordenamiento como la búsqueda), mostrando la eficiencia del código.
+
+En el procesado real se uso un array de 100 enteros, el resultado de este proceso se puede ver en el archivo output
+
+![image](https://github.com/jhonsl/IntroPP2222962/assets/69093836/f6ac2189-790a-4ae9-887d-7277a39a3d2e)
+
 
 ### Comando de Ejecución
 
