@@ -21,6 +21,8 @@ El programa `omp_code` es una aplicación de consola escrita en C++ que demuestr
     -   Ejecución: Utilice un script de Slurm `code.sbatch` para enviar el trabajo al gestor de colas.
 
 ### Resumen de la Prueba
+![image](https://github.com/jhonsl/IntroPP2222962/assets/69093836/449b02bb-6bf9-4329-8765-3db7ab973013)
+![image](https://github.com/jhonsl/IntroPP2222962/assets/69093836/8d8c6aec-c507-4502-b62b-f1aea62b3131)
 
 La salida proporcionada corresponde al resultado de una ejecución de prueba local del binario `omp_code`. La prueba se realizó para medir el rendimiento de los algoritmos de búsqueda binaria y ordenamiento de burbuja paralelizados, centrándose especialmente en las mejoras añadidas por la implementación de directivas OpenMP.
 
