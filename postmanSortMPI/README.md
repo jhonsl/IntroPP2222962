@@ -1,5 +1,3 @@
-![image](https://github.com/jhonsl/IntroPP2222962/assets/69093836/088dec2f-aabe-4530-8ed0-021c23fb3ce3)# Proyecto de Ordenamiento con OpenMP y MPI
-
 ## Descripción del Proyecto
 
 Este proyecto implementa un algoritmo de ordenamiento que utiliza tanto MPI (Message Passing Interface) como OpenMP (Open Multi-Processing) para mejorar el rendimiento en entornos de computación de alto rendimiento (HPC). El objetivo es demostrar cómo las técnicas de paralelización pueden mejorar significativamente el tiempo de ejecución para tareas intensivas de computación, como el ordenamiento de grandes conjuntos de datos.
