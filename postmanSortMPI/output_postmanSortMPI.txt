@@ -1,0 +1,10 @@
+Warning: Intel PAC device is not found.
+Please install the Intel PAC card to execute your program on an FPGA device.
+Warning: Intel PAC device is not found.
+Please install the Intel PAC card to execute your program on an FPGA device.
+Enter the size of the array: Enter the elements of the array: 
+
+Sorted array (Postman sort): 
+1 1 2 2 3 4 8 9 11 11 12 12 12 12 12 13 14 14 15 15 16 17 17 18 18 19 21 25 26 26 26 30 32 32 32 32 32 32 34 36 36 36 36 37 37 40 40 43 43 43 44 44 46 47 47 48 48 49 52 54 54 55 57 57 58 58 59 60 63 64 66 67 67 68 68 68 69 69 70 72 72 74 76 77 78 79 82 83 83 83 85 85 88 88 89 91 93 95 96 99 
+
+Time elapsed: 0.000088 seconds
