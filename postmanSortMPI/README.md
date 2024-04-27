@@ -58,12 +58,15 @@ sbatch run_omp_sort.sbatch
 ## Tiempos de Ejecución y Análisis de Resultados
 
 -   **Original (Serial)**: `0.000000 seconds`
+  
   ![image](https://github.com/jhonsl/IntroPP2222962/assets/69093836/a8a029b1-637d-478e-9cf9-07106dbf4144)
 
 -   **MPI**: `0.000088 seconds`
+  
   ![image](https://github.com/jhonsl/IntroPP2222962/assets/69093836/24902ce4-79ed-4513-a541-1cffc54763be)
 
 -   **OpenMP**: `0.000057 seconds`
+  
   ![image](https://github.com/jhonsl/IntroPP2222962/assets/69093836/c4bf1c26-208c-4ce6-bc7c-e24fbe2c6bd1)
 
 
